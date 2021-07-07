@@ -1,9 +1,3 @@
-/********************
- * Developer: Itay Adi Yosef
- * Date: November 16th
- * Reviewer: Atar Yehie
- */
-
 package il.co.ilrd.composite;
 
 import java.util.ArrayList;
